@@ -1,4 +1,4 @@
-# 1이 될 때까지
+# Q) 1이 될 때까지
 
 n, k = map(int , input("plz type n and k: ").split())
 

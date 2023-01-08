@@ -1,4 +1,4 @@
-# 곱하기 혹은 더하기
+# Q) 곱하기 혹은 더하기
 
 s = input("plz type s : ")
 answer = 0
